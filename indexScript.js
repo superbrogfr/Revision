@@ -1,5 +1,3 @@
-import '@aws-amplify/ui-react/styles.css';
-
 function goToPage(path) {
     document.body.style.transform = 'translateX(-100vw)';
     setTimeout(() => {
@@ -13,3 +11,4 @@ window.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+import '@aws-amplify/ui-react/styles.css';
