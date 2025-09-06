@@ -10,5 +10,3 @@ window.addEventListener('DOMContentLoaded', () => {
         document.body.style.transform = 'translateX(0)';
     });
 });
-
-import '@aws-amplify/ui-react/styles.css';
