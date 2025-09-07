@@ -1,42 +1,42 @@
 const flashcardsFrontBack = [
-  `Carbohydrates:
-  Compounds made of sugars and starches that provide energy for the body.`,
-  `Simple carbohydrates:
-  Sugars that digest quickly and cause rapid blood glucose increases.`,
-  `Complex carbohydrates:
-  Starches and fibre that digest slowly, providing longer-lasting energy.`,
-  `Sources of simple carbohydrates:
-  Fruits, honey, milk, table sugar.`,
-  `Sources of complex carbohydrates:
-  Whole grains, potatoes, beans, vegetables.`,
-  `Digestion of simple carbohydrates:
-  Broken down quickly into glucose for immediate energy.`,
-  `Digestion of complex carbohydrates:
-  Gradually broken into glucose, releasing energy over time.`,
-  `Blood glucose effects:
-  Simple carbohydrates spike blood sugar; complex carbohydrates keep levels steady.`,
-  `Health benefits:
-  Complex carbohydrates support digestive health and stable energy; too many simple sugars may harm health.`,
-  `Amino acids:
-  Building blocks of proteins required for body growth and repair.`,
-  `Complete proteins:
-  Contain all essential amino acids, found in meat, fish, eggs, dairy, soy.`,
-  `Incomplete proteins:
-  Lack one or more essential amino acids, found in most plant foods.`,
-  `Protein complementation:
-  Combining plant proteins (e.g. beans with rice) to obtain all essential amino acids.`,
-  `Saturated fats:
-  Fats with no double bonds, mainly from animal sources, linked to raised cholesterol.`,
-  `Unsaturated fats:
-  Fats with one or more double bonds, mainly from plants and fish, beneficial for heart health.`,
-  `Essential fatty acids:
-  Fats the body cannot make, required for brain function, cell health and inflammation control.`,
-  `Functions of fats:
-  Provide energy, absorb fat-soluble vitamins, protect organs and insulate the body.`,
-  `Glycaemic index (GI):
-  A measure of how quickly a carbohydrate food raises blood glucose.`,
-  `Managing blood sugar:
-  Choosing low-GI carbohydrates, balancing meals, and spacing intake throughout the day.`
+`Carbohydrates:
+Compounds made of sugars and starches that provide energy for the body.`,
+`Simple carbohydrates:
+Sugars that digest quickly and cause rapid blood glucose increases.`,
+`Complex carbohydrates:
+Starches and fibre that digest slowly, providing longer-lasting energy.`,
+`Sources of simple carbohydrates:
+Fruits, honey, milk, table sugar.`,
+`Sources of complex carbohydrates:
+Whole grains, potatoes, beans, vegetables.`,
+`Digestion of simple carbohydrates:
+Broken down quickly into glucose for immediate energy.`,
+`Digestion of complex carbohydrates:
+Gradually broken into glucose, releasing energy over time.`,
+`Blood glucose effects:
+Simple carbohydrates spike blood sugar; complex carbohydrates keep levels steady.`,
+`Health benefits:
+Complex carbohydrates support digestive health and stable energy; too many simple sugars may harm health.`,
+`Amino acids:
+Building blocks of proteins required for body growth and repair.`,
+`Complete proteins:
+Contain all essential amino acids, found in meat, fish, eggs, dairy, soy.`,
+`Incomplete proteins:
+Lack one or more essential amino acids, found in most plant foods.`,
+`Protein complementation:
+Combining plant proteins (e.g. beans with rice) to obtain all essential amino acids.`,
+`Saturated fats:
+Fats with no double bonds, mainly from animal sources, linked to raised cholesterol.`,
+`Unsaturated fats:
+Fats with one or more double bonds, mainly from plants and fish, beneficial for heart health.`,
+`Essential fatty acids:
+Fats the body cannot make, required for brain function, cell health and inflammation control.`,
+`Functions of fats:
+Provide energy, absorb fat-soluble vitamins, protect organs and insulate the body.`,
+`Glycaemic index (GI):
+A measure of how quickly a carbohydrate food raises blood glucose.`,
+`Managing blood sugar:
+Choosing low-GI carbohydrates, balancing meals, and spacing intake throughout the day.`
 ];
 
 

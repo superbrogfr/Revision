@@ -1,150 +1,150 @@
 const flashcardsFrontBack = [
-  `Core Technical Principles:
-  Fundamental ideas and concepts underpinning technology and design.`,
+`Core Technical Principles:
+Fundamental ideas and concepts underpinning technology and design.`,
 
-  `New and Emerging Technologies:
-  Innovations that are currently developing and shaping the future.`,
+`New and Emerging Technologies:
+Innovations that are currently developing and shaping the future.`,
 
-  `Impacts on industry, enterprise, society, and sustainability:
-  How technological advancements affect different sectors and the environment.`,
+`Impacts on industry, enterprise, society, and sustainability:
+How technological advancements affect different sectors and the environment.`,
 
-  `Energy generation and storage:
-  Methods for producing and storing energy for various applications.`,
+`Energy generation and storage:
+Methods for producing and storing energy for various applications.`,
 
-  `Developments in modern, smart, and composite materials:
-  New materials with enhanced properties for specialised applications.`,
+`Developments in modern, smart, and composite materials:
+New materials with enhanced properties for specialised applications.`,
 
-  `Systems approach to designing and making:
-  Considering the interrelation of components in the design process.`,
+`Systems approach to designing and making:
+Considering the interrelation of components in the design process.`,
 
-  `Mechanical devices:
-  Mechanisms such as levers, linkages, cams, gears, pulleys, and belts.`,
+`Mechanical devices:
+Mechanisms such as levers, linkages, cams, gears, pulleys, and belts.`,
 
-  `Materials and their Working Properties:
-  Understanding different materials and how they behave under conditions.`,
+`Materials and their Working Properties:
+Understanding different materials and how they behave under conditions.`,
 
-  `Papers and boards:
-  Types, properties, and common uses of paper and board materials.`,
+`Papers and boards:
+Types, properties, and common uses of paper and board materials.`,
 
-  `Timbers:
-  Hardwoods, softwoods, and manufactured boards and their applications.`,
+`Timbers:
+Hardwoods, softwoods, and manufactured boards and their applications.`,
 
-  `Metals and alloys:
-  Ferrous and non-ferrous metals and their characteristics.`,
+`Metals and alloys:
+Ferrous and non-ferrous metals and their characteristics.`,
 
-  `Polymers:
-  Thermoplastics and thermosetting plastics and their uses.`,
+`Polymers:
+Thermoplastics and thermosetting plastics and their uses.`,
 
-  `Textiles:
-  Natural and synthetic fibres and their properties.`,
+`Textiles:
+Natural and synthetic fibres and their properties.`,
 
-  `Material Selection - Suitability for purpose:
-  Choosing materials based on function, aesthetics, and sustainability.`,
+`Material Selection - Suitability for purpose:
+Choosing materials based on function, aesthetics, and sustainability.`,
 
-  `Material Selection - Environmental and social impacts:
-  Considering ethical sourcing and lifecycle impacts of materials.`,
+`Material Selection - Environmental and social impacts:
+Considering ethical sourcing and lifecycle impacts of materials.`,
 
-  `Forces and Stresses - Types of forces:
-  Tension, compression, torsion, and shear forces acting on materials.`,
+`Forces and Stresses - Types of forces:
+Tension, compression, torsion, and shear forces acting on materials.`,
 
-  `Forces and Stresses - Reinforcement techniques:
-  Methods like lamination and ribbing to strengthen materials.`,
+`Forces and Stresses - Reinforcement techniques:
+Methods like lamination and ribbing to strengthen materials.`,
 
-  `Ecological and Social Footprint - Six Rs:
-  Reduce, reuse, recycle, repair, rethink, refuse in sustainable design.`,
+`Ecological and Social Footprint - Six Rs:
+Reduce, reuse, recycle, repair, rethink, refuse in sustainable design.`,
 
-  `Ecological and Social Footprint - Sustainable practices:
-  Importance of sustainability in design and manufacturing.`,
+`Ecological and Social Footprint - Sustainable practices:
+Importance of sustainability in design and manufacturing.`,
 
-  `Sources and Origins - Material sourcing:
-  Where materials come from and their impact.`,
+`Sources and Origins - Material sourcing:
+Where materials come from and their impact.`,
 
-  `Sources and Origins - Processing methods:
-  How materials are processed for use in products.`,
+`Sources and Origins - Processing methods:
+How materials are processed for use in products.`,
 
-  `Scales of Production - Prototype to continuous:
-  Differences between one-off, batch, and mass production.`,
+`Scales of Production - Prototype to continuous:
+Differences between one-off, batch, and mass production.`,
 
-  `Specialist Techniques and Processes - Shaping, joining, deforming:
-  Methods such as cutting, welding, and bending.`,
+`Specialist Techniques and Processes - Shaping, joining, deforming:
+Methods such as cutting, welding, and bending.`,
 
-  `Specialist Techniques and Processes - Surface treatments:
-  Finishing techniques such as painting and anodising.`,
+`Specialist Techniques and Processes - Surface treatments:
+Finishing techniques such as painting and anodising.`,
 
-  `Specialist Techniques and Processes - Tools and equipment:
-  Use of hand tools, machines, and digital technologies.`,
+`Specialist Techniques and Processes - Tools and equipment:
+Use of hand tools, machines, and digital technologies.`,
 
-  `Specialist Techniques and Processes - Quality control:
-  Ensuring products meet required standards.`,
+`Specialist Techniques and Processes - Quality control:
+Ensuring products meet required standards.`,
 
-  `Designing and Making Principles - Investigation, Primary and Secondary Data:
-  Collecting and analysing market research data.`,
+`Designing and Making Principles - Investigation, Primary and Secondary Data:
+Collecting and analysing market research data.`,
 
-  `Designing and Making Principles - Ergonomics and anthropometrics:
-  Study of human dimensions and comfort in design.`,
+`Designing and Making Principles - Ergonomics and anthropometrics:
+Study of human dimensions and comfort in design.`,
 
-  `Designing and Making Principles - Environmental, Social, and Economic Challenge:
-  Considering environmental impact and ethical sourcing.`,
+`Designing and Making Principles - Environmental, Social, and Economic Challenge:
+Considering environmental impact and ethical sourcing.`,
 
-  `Designing and Making Principles - The Work of Others:
-  Studying influential designers and design movements.`,
+`Designing and Making Principles - The Work of Others:
+Studying influential designers and design movements.`,
 
-  `Design Strategies - User-centred design:
-  Designing with a focus on user needs and experiences.`,
+`Design Strategies - User-centred design:
+Designing with a focus on user needs and experiences.`,
 
-  `Design Strategies - Iterative design:
-  Continuously refining and improving ideas.`,
+`Design Strategies - Iterative design:
+Continuously refining and improving ideas.`,
 
-  `Design Strategies - Systems approach:
-  Understanding interrelated components in design.`,
+`Design Strategies - Systems approach:
+Understanding interrelated components in design.`,
 
-  `Communication of Design Ideas - Sketching and modelling:
-  Visualising design concepts through sketches and models.`,
+`Communication of Design Ideas - Sketching and modelling:
+Visualising design concepts through sketches and models.`,
 
-  `Communication of Design Ideas - CAD and CAM:
-  Using digital tools for design and manufacturing.`,
+`Communication of Design Ideas - CAD and CAM:
+Using digital tools for design and manufacturing.`,
 
-  `Prototype Development - Material selection:
-  Choosing appropriate materials for prototypes.`,
+`Prototype Development - Material selection:
+Choosing appropriate materials for prototypes.`,
 
-  `Prototype Development - Testing and evaluation:
-  Assessing prototypes against design criteria.`,
+`Prototype Development - Testing and evaluation:
+Assessing prototypes against design criteria.`,
 
-  `Selection of Materials and Components - Suitability:
-  Choosing materials based on properties and requirements.`,
+`Selection of Materials and Components - Suitability:
+Choosing materials based on properties and requirements.`,
 
-  `Selection of Materials and Components - Sourcing:
-  Identifying suppliers and managing inventory.`,
+`Selection of Materials and Components - Sourcing:
+Identifying suppliers and managing inventory.`,
 
-  `Tolerances - Measurement:
-  Understanding acceptable limits in dimensions.`,
+`Tolerances - Measurement:
+Understanding acceptable limits in dimensions.`,
 
-  `Tolerances - Fit:
-  Types of fits like clearance and interference.`,
+`Tolerances - Fit:
+Types of fits like clearance and interference.`,
 
-  `Material Management - Stock control:
-  Techniques for managing materials and reducing waste.`,
+`Material Management - Stock control:
+Techniques for managing materials and reducing waste.`,
 
-  `Material Management - Costing:
-  Understanding material costs and budgeting.`,
+`Material Management - Costing:
+Understanding material costs and budgeting.`,
 
-  `Specialist Tools and Equipment - Hand tools:
-  Using tools such as saws and drills.`,
+`Specialist Tools and Equipment - Hand tools:
+Using tools such as saws and drills.`,
 
-  `Specialist Tools and Equipment - Machines:
-  Operating equipment like lathes and CNC machines.`,
+`Specialist Tools and Equipment - Machines:
+Operating equipment like lathes and CNC machines.`,
 
-  `Specialist Tools and Equipment - Digital technologies:
-  Incorporating tools like 3D printers into design.`,
+`Specialist Tools and Equipment - Digital technologies:
+Incorporating tools like 3D printers into design.`,
 
-  `Specialist Techniques and Processes - Shaping and forming:
-  Techniques such as casting and moulding.`,
+`Specialist Techniques and Processes - Shaping and forming:
+Techniques such as casting and moulding.`,
 
-  `Specialist Techniques and Processes - Joining methods:
-  Welding, soldering, and adhesive bonding.`,
+`Specialist Techniques and Processes - Joining methods:
+Welding, soldering, and adhesive bonding.`,
 
-  `Specialist Techniques and Processes - Finishing techniques:
-  Polishing, painting, and coating finished products.`
+`Specialist Techniques and Processes - Finishing techniques:
+Polishing, painting, and coating finished products.`
 ];
 
 const flashcardsQA = [
