@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food Revision</title>
+  <link rel="stylesheet" href="biology.css">
+</head>
+<body data-slide-in="right">
+  <header>
+    <button class="home-btn" onclick="goHome()">Home</button>
+    <h1>Food Revision</h1>
+  </header>
+
+  <div class="flashcard-type-selector">
+    <button onclick="setFlashcardType('frontback')">Cards</button>
+    <button onclick="setFlashcardType('quiz')">Quiz</button>
+  </div>
+
+  <div class="flashcard-container">
+    <div id="flashcard" class="flashcard"></div>
+    <button onclick="nextFlashcard()">Next</button>
+  </div>
+
+  <script src="biologyData.js"></script>
+  <script src="biologyFlashcards.js"></script>
+</body>
+</html>

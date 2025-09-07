@@ -1,0 +1,8 @@
+const flashcardsFrontBack = [
+
+];
+
+
+const flashcardsQA = [
+
+];
