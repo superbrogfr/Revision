@@ -62,7 +62,7 @@ function setFlashcardType(type) {
 function goHome() {
     document.body.style.transform = 'translateX(100vw)';
     setTimeout(() => {
-        window.location.href = '../index.html';
+        window.location.href = '../';
     }, 500);
 }
 
@@ -72,3 +72,4 @@ window.addEventListener('DOMContentLoaded', () => {
         document.body.style.transform = 'translateX(0)';
     });
 });
+
