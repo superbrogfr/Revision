@@ -1,211 +1,168 @@
 const flashcardsFrontBack = [
-`Core Technical Principles:
-Fundamental ideas and concepts underpinning technology and design.`,
+`Iterative design:
+A cyclic aproach where each itteration of a design is tested and evaluated then chganges are made, leading to new itterations.`,
 
-`New and Emerging Technologies:
-Innovations that are currently developing and shaping the future.`,
+`Advantages of iterative design:
+- It is more likely that problems with the design will be discovered and dealt with earlier.
+- It encourages focus on the most critical aspects of a product's design.
+- Evidence of progress can be easily provided to stakeholders.`,
 
-`Impacts on industry, enterprise, society, and sustainability:
-How technological advancements affect different sectors and the environment.`,
+`Disadvantages of iterative design:
+- Designers can be so focused on the current iteration that they sometimes lose sight of the bigger design picture.
+- It can be time consuming.`,
 
-`Energy generation and storage:
-Methods for producing and storing energy for various applications.`,
+`User-centered design:
+An aproach where the needs and wants of the end user are considered extensively at each stage of the design process.`,
 
-`Developments in modern, smart, and composite materials:
-New materials with enhanced properties for specialised applications.`,
+`Advantages of user-centered design:
+- The end user feels listened to and so has a greater sense if ownership of the final product.
+- Listening to the end user at each design stage means it is more likely that the final product will meet users' expectations.`,
 
-`Systems approach to designing and making:
-Considering the interrelation of components in the design process.`,
+`Disadvantages of user-centered design:
+- It requires extra time to meet and hold discussions with users and then alter design as a result of user feedback.
+- If the design becomes too focused on a particular end user's requirements, it may become unviable to sell to the wider public.`,
 
-`Mechanical devices:
-Mechanisms such as levers, linkages, cams, gears, pulleys, and belts.`,
+`Systems thinking:
+Often used when designing electronic, mechanical and mechatronic systems.
+It is a top-down approach that  starts with an overview of the overall system in terms of its input, process and output subsystems.`,
 
-`Materials and their Working Properties:
-Understanding different materials and how they behave under conditions.`,
+`Advantages of a systens approach:
+- It does not require specialist knowledge of electronic or mechanical components to design the system overview.
+- The top-down approach makes it easy to communicate how the system will work to non-technical specialists, such as clients and stakeholders.
+- The system is designed in blocks, so it is easier to find errors or faults.`,
 
-`Papers and boards:
-Types, properties, and common uses of paper and board materials.`,
+`Disadvantages of a systems approach:
+- It can lead to the use of components that are not necessary, resulting in larger systems at extra cost.`,
 
-`Timbers:
-Hardwoods, softwoods, and manufactured boards and their applications.`,
+`Structure of a system:
+Electronic systems are usually made up of input device, process and output device stages. Some systems include a driver stage.`,
 
-`Metals and alloys:
-Ferrous and non-ferrous metals and their characteristics.`,
+`Structure of a system:
+- Input devices take a signal such as light sound or movement, and turn it into an electrical signal, such as a voltage or current.
+~ Switches and sensors
+- Processes act like the 'brain' of a system. They alter tje electronic signal to create functions such as timing and counting.
+~ Microcontrollers
+- Drivers increase the signal going into the output stage. This ensures that output devices draw the required amount of current to work effectively.
+- Output devices take an electrical signal and turn it into a real-world signal
+~ Lights, speakers, motors`,
 
-`Polymers:
-Thermoplastics and thermosetting plastics and their uses.`,
+`Systems block diagrams:
+Block diagrams that represent an overview of the system and how it will work.`,
 
-`Textiles:
-Natural and synthetic fibres and their properties.`,
+`Harry Beck:
+Designed the London Underground map in 1931, influenced by the layouts used in electronic schematics. The design has been widely copied for use in public transport systems around the world.`,
 
-`Material Selection - Suitability for purpose:
-Choosing materials based on function, aesthetics, and sustainability.`,
+`Marcel Breuer:
+An early student of the Bauhaus design school. Invented a new type of steel furniture inspired by bicycle handles. One famous example is the Wassily Chair.`,
 
-`Material Selection - Environmental and social impacts:
-Considering ethical sourcing and lifecycle impacts of materials.`,
+`Coco Chanel:
+A French fashion designer who founded the Chanel brand, which specialises in luxury items, fashion accessories and ready-to-wear clothing.`,
 
-`Forces and Stresses - Types of forces:
-Tension, compression, torsion, and shear forces acting on materials.`,
+`Norman Foster:
+A British architect and founder of Foster + Partners. Designed the high-tech 'Gherkin' building in the City of London, which uses less than half of the energy of a similar sized building.`,
 
-`Forces and Stresses - Reinforcement techniques:
-Methods like lamination and ribbing to strengthen materials.`,
+`Sir Alec Issigonis:
+A British-Greek car designer who designed the Mini, which is still hugely popular to this day. Also worked on the Morris Minor.`,
 
-`Ecological and Social Footprint - Six Rs:
-Reduce, reuse, recycle, repair, rethink, refuse in sustainable design.`,
+`Charles Rennie Mackintosh:
+A Scottish architect and designer who was an influence on the Art Nouveau movement. He was influenced by modernist and Japanese architecture. He designed 'The Lighthouse' in Glasgow.`,
 
-`Ecological and Social Footprint - Sustainable practices:
-Importance of sustainability in design and manufacturing.`,
+`Aldo Rossi:
+Italian designer successful in product design architecture, drawing and design theory. Author of the seminal urban design book, The Architecture of the City, published in 1966.`,
 
-`Sources and Origins - Material sourcing:
-Where materials come from and their impact.`,
+`Philippe Starck:
+A French designer who is known for his interior product and furniture designs. Designed the 'Juicy Salif' lemon squeezer in 1990 for Alessi, which is now widely seen as a design icon.`,
 
-`Sources and Origins - Processing methods:
-How materials are processed for use in products.`,
+`Raymond Templier:
+A French jewellery designer inspiredby the Art Deco movement. He tipically paired dark stones with precious white metals to create bold geometric pieces.`,
 
-`Scales of Production - Prototype to continuous:
-Differences between one-off, batch, and mass production.`,
+`Louis Comfort Tiffany:
+American designer and metalworker associated with the Art Nouveau movement. Worked as design director at Tiffany and Co. who are well known for their jewellery and lamp designs.`,
 
-`Specialist Techniques and Processes - Shaping, joining, deforming:
-Methods such as cutting, welding, and bending.`,
+`Apple:
+A multinational consumer electronics company in California, USA. Founded by Steve Jobs, Steve Wozniak, and Ronald Wayne  in 1976. Initially sold personal computers, such as Macintosh. This was extremely innovative at the time due to the use of a graphical user interface with a mouse. Later produced the iconic iMac G3, the iPod and the hugely successful iPhone, which combined elements of both the G3 and the iPod with a touch screen phone.`,
 
-`Specialist Techniques and Processes - Surface treatments:
-Finishing techniques such as painting and anodising.`,
+`Dyson:
+A British design engineering company. Formed by James Dyson in 1991 as a way of bringing his new bagless vacuum cleaner invention to the market. By 2001 over 47% of all vacuum cleaners sold in the UK were Dysons. Dyson vacuum cleaners do not lose suction due to their unique cyclone dust-separation technology. Dyson has ssince diversified its product line to include hheaters, bladeless fans and even hair dryers.`,
 
-`Specialist Techniques and Processes - Tools and equipment:
-Use of hand tools, machines, and digital technologies.`,
+`Primark:
+An international clothing retailer with its main base in Dublin, Ireland. Known for low-cost yet fashionable products, and its contribution to the modern 'fast fashion' trend. Clothes are made in places such as China, India and Bangladesh. It does not own the factories that produce its clothing.`,
 
-`Specialist Techniques and Processes - Quality control:
-Ensuring products meet required standards.`,
+`Under Armour:
+An American sportswear company formed in 1996 by Kevin Plank, former American football player. Developed moisture wicking sportswear that uses microfibres to keep athletes cool and dry. Now also sells footwear and accessories.`,
 
-`Designing and Making Principles - Investigation, Primary and Secondary Data:
-Collecting and analysing market research data.`,
+`Zara:
+A Spanish clothing and accessories company founded by Amancio Ortega and Rosalina Mera. Sells products that react to current consumer trends, using a 'just-in-time' production approach. Began working with Greenpeace in 2011 to eliminate harmful toxins from its clothing.`,
 
-`Designing and Making Principles - Ergonomics and anthropometrics:
-Study of human dimensions and comfort in design.`,
+`Ecological and Social Issues in the Design and Manufacture of Products:
+- Some raw materials are mined, which can cause erosion and soil contamination. Others are farmed. Over-farming and pesticides can lead to death of wildlife.`,
 
-`Designing and Making Principles - Environmental, Social, and Economic Challenge:
-Considering environmental impact and ethical sourcing.`,
+`Ecological and Social Issues in the Design and Manufacture of Products:
+- Oil is needed to make plastics. Oil spills can have devistating effects.`,
 
-`Designing and Making Principles - The Work of Others:
-Studying influential designers and design movements.`,
+`Ecological and Social Issues in the Design and Manufacture of Products:
+- Carbon is released into the atmosphere from producing products. This is widely accepted as a cause of global warming.`,
 
-`Design Strategies - User-centred design:
-Designing with a focus on user needs and experiences.`,
+`Ecological and Social Issues in the Design and Manufacture of Products:
+- Deforestation results in loss of habitats for species, and impacts climate change.`,
 
-`Design Strategies - Iterative design:
-Continuously refining and improving ideas.`,
+`Ecological and Social Issues in the Design and Manufacture of Products:
+- It is important that workers who manufacture products are kept safe while doing so. The UK has legislation to ensure employers look after their workers. But, workers in some other countries do not have the same protections.`,
 
-`Design Strategies - Systems approach:
-Understanding interrelated components in design.`,
+`Ecological and Social Issues in the Design and Manufacture of Products:
+- Atmosphere pollution occurs when pollutants are released into the atmosphere. It has been linked to respiratory illnesses, e.g. lung cancer, asthma.`,
 
-`Communication of Design Ideas - Sketching and modelling:
-Visualising design concepts through sketches and models.`,
+`Ecological and Social Issues in the Design and Manufacture of Products:
+- Ocean pollution happens when chemicals and other industrial waste is released into the oceans.`,
 
-`Communication of Design Ideas - CAD and CAM:
-Using digital tools for design and manufacturing.`,
+`The 6 Rs:
+- Reduce
+- Rethink
+- Refuse
+- Recycle
+- Reuse
+- Repair`,
 
-`Prototype Development - Material selection:
-Choosing appropriate materials for prototypes.`,
+`Reduce:
+How can the amount of materials and components used in the product be reduced?
+Is the product itself necessary?`,
 
-`Prototype Development - Testing and evaluation:
-Assessing prototypes against design criteria.`,
+`Rethink:
+How can the design be changed to be less harmful to the environment?
+Can better ways be found?`,
 
-`Selection of Materials and Components - Suitability:
-Choosing materials based on properties and requirements.`,
+`Refuse:
+Should the product be produced if it is not sustainably designed?
+Is the packaging necessary?`,
 
-`Selection of Materials and Components - Sourcing:
-Identifying suppliers and managing inventory.`,
+`Recycle:
+Is the product made using recycled materials?
+Could the materials be recycled once the product is no longer useful?`,
 
-`Tolerances - Measurement:
-Understanding acceptable limits in dimensions.`,
+`Reuse:
+Could the product be used in a different way once its current use has expired?
+Could the parts be reused?`,
 
-`Tolerances - Fit:
-Types of fits like clearance and interference.`,
+`Repair:
+Is the product easy to repair?
+Are replacement components readily available in case of failure?`,
 
-`Material Management - Stock control:
-Techniques for managing materials and reducing waste.`,
+`Fair trade:
+A movement that works to help people in developing countries get a fair deal for the products they produce.`,
 
-`Material Management - Costing:
-Understanding material costs and budgeting.`,
+`Fair trade:
+- Producers are paid an agreed minimum rate for many products. This gets paid even if global prices fall.
+- They also receive a Fairtrade Premium payment that they can use to invest in areas such as local education and healthcare.
+- Many consumers like to buy fair trade products as it fits with their values and principles.
+- The Fairtrade Certification Mark shows that a product meets fair traid standards.`,
 
-`Specialist Tools and Equipment - Hand tools:
-Using tools such as saws and drills.`,
-
-`Specialist Tools and Equipment - Machines:
-Operating equipment like lathes and CNC machines.`,
-
-`Specialist Tools and Equipment - Digital technologies:
-Incorporating tools like 3D printers into design.`,
-
-`Specialist Techniques and Processes - Shaping and forming:
-Techniques such as casting and moulding.`,
-
-`Specialist Techniques and Processes - Joining methods:
-Welding, soldering, and adhesive bonding.`,
-
-`Specialist Techniques and Processes - Finishing techniques:
-Polishing, painting, and coating finished products.`
+`Research and invesigation:
+- Market research is carried out to find out whether there is a place in the market for a proposed product. A product that is first to market can become very successful. An example is the first mobile phone made by Motorola in 1973, which propelled them into market leaders.
+- It is important tp discuss the client's requirements directly with them. Interviews can be face-to-face or via virtual meeting technology.
+- A focus group can be assembled to discuss and give feedback on a product or design idea.
+- Product analysis is the detailed investigation or analysis of current or previous designs.`
 ];
 
 const flashcardsQA = [
-  {
-    question: "What are Core Technical Principles?",
-    choices: ["Fundamental design concepts", "Finished products", "Material costs", "Production schedules"],
-    answer: "Fundamental design concepts"
-  },
-  {
-    question: "What are New and Emerging Technologies?",
-    choices: ["Raw materials", "Old machinery", "Innovations shaping the future", "Marketing strategies"],
-    answer: "Innovations shaping the future"
-  },
-  {
-    question: "How do technological advancements impact society?",
-    choices: ["They only affect marketing", "They affect sectors and environment", "They have no effect", "They reduce materials"],
-    answer: "They affect sectors and environment"
-  },
-  {
-    question: "What is studied in Energy generation and storage?",
-    choices: ["Textile properties", "Methods of producing and storing energy", "Design sketches", "Market research"],
-    answer: "Methods of producing and storing energy"
-  },
-  {
-    question: "What are Mechanical devices?",
-    choices: ["Polymers", "Fabrics", "Levers, gears, pulleys, cams, linkages", "CAD software"],
-    answer: "Levers, gears, pulleys, cams, linkages"
-  },
-  {
-    question: "What are the main types of Timbers?",
-    choices: ["Paints, coatings", "Metals, alloys, polymers", "Textiles, fibres", "Hardwoods, softwoods, manufactured boards"],
-    answer: "Hardwoods, softwoods, manufactured boards"
-  },
-  {
-    question: "What are Polymers?",
-    choices: ["Mechanical devices", "Metals", "Natural fibres", "Thermoplastics and thermosetting plastics"],
-    answer: "Thermoplastics and thermosetting plastics"
-  },
-  {
-    question: "What does suitability for purpose mean in Material Selection?",
-    choices: ["Selecting only metals", "Choosing materials based on function, aesthetics, sustainability", "Ignoring environmental impact", "Focusing on cost only"],
-    answer: "Choosing materials based on function, aesthetics, sustainability"
-  },
-  {
-    question: "Name the Six Rs of Ecological and Social Footprint.",
-    choices: ["Reduce, reuse, recycle, repair, rethink, refuse", "Recycle only", "Reduce and reuse", "Repair and refuse only"],
-    answer: "Reduce, reuse, recycle, repair, rethink, refuse"
-  },
-  {
-    question: "What is iterative design?",
-    choices: ["Creating one final design", "Continuously refining and improving ideas", "Focusing only on materials", "Testing products without changes"],
-    answer: "Continuously refining and improving ideas"
-  },
-  {
-    question: "What is the purpose of CAD and CAM?",
-    choices: ["Testing prototypes only", "Measuring materials", "Manual sketching", "Using digital tools for design and manufacturing"],
-    answer: "Using digital tools for design and manufacturing"
-  },
-  {
-    question: "What are Tolerances in design?",
-    choices: ["Sketching methods", "Material types", "Acceptable limits in dimensions", "Prototype costs"],
-    answer: "Acceptable limits in dimensions"
-  }
+
 ];
