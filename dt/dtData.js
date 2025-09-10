@@ -160,7 +160,89 @@ A movement that works to help people in developing countries get a fair deal for
 - Market research is carried out to find out whether there is a place in the market for a proposed product. A product that is first to market can become very successful. An example is the first mobile phone made by Motorola in 1973, which propelled them into market leaders.
 - It is important tp discuss the client's requirements directly with them. Interviews can be face-to-face or via virtual meeting technology.
 - A focus group can be assembled to discuss and give feedback on a product or design idea.
-- Product analysis is the detailed investigation or analysis of current or previous designs.`
+- Product analysis is the detailed investigation or analysis of current or previous designs.`,
+
+`Primary Data:
+Raw data taken first hand or from origional research. For example, a designer could ask a group of people to answer a questionnaire about a proposed solution to a design problem. Responses to this could then be analysed and the findings discussed.`,
+
+`Secondary Data:
+Data that is freely available and taken from other parties or sources. For example, datasheets and catalogues can provide useful information about technical aspects of the raw materials to be used.`,
+
+`Ergonomics:
+Understanding how people interact with products and systems around them. It is a key factor in ensuring that a product is easy to use. Designers will think about factors such as comfort and safety, e.g. the handle if a garden tool can be designed so that it fits comfortably in the hand.`,
+
+`Anthropometrics:
+The study of the human body and how it moves. Anthropometrics data is measurements taken from millions of people of different shapes and sizes and placed in charts. Designers can make use of these charts when designing products and systems. When using anthorpometric data, designers often work from the 5th to the 95th percentile. This ensures that 90% of the population are catered for.`,
+
+`Design brief:
+A short description of the design problem and how it is to be solved. The design situation is usually outlined first, followed by the brief itself.`,
+
+`Aesthetics:
+How will the product appeal to the five senses?`,
+
+`Client:
+Who is the product for?
+What gender and age range?`,
+
+`Cost:
+How much will it cost to make?
+What will it cost the consumer?`,
+
+`Environment:
+How will the product impact on the environment?
+How can it be more sustainable?`,
+
+`Safety:
+How will it be designed so that it is safe to use?`,
+
+`Size:
+What will be the dimensions (mm) of the finished product?`,
+
+`Function:
+What will it do and how will it work?`,
+
+`Materials:
+What materials and components will be used?`,
+
+`Manufacturing specification:
+Contains the information needed for manufacture
+- The scale of production to be used, e.g. batch, one-off.
+- A description and/or drawing of the final design.
+- Details of the materials and components that are needed.
+- Details of how quiality will be ensured (quality control).`,
+
+`Iterative process:
+A cyclic aproach where each iteration of a design is tested and evaluated then changes are made, leading to new itterations.`,
+
+`Perspective drawing:
+Produces a realistic view of a product. The drawing is not to scale. It has a horizon line, also known as an eyeline. One or two vanishing points sit on the horizon line (for one- or two-point perspective). Non-vertical lines in the object can be extended to meet the vanishing point. One-point perspective is often used for interiors.`,
+
+`Isometric projection:
+Can be used to produce a 3D object to scale. It uses lines at 30° to the baseline (60° to the edges). Isometric paper has a grid which can be used as guidelines.`,
+
+`Exploded drawings:
+Show how the parts of a product fit together. Parts should be lined up and the correct size. They are useful when assembling products made from many different parts.`,
+
+`Annotation:
+Adding notes and labels to drawings and sketches. These should not just be descriptive; for example, colours or materials. They should explain the detailed development of the design, such as the design decisions made.`,
+
+`Working drawings:
+Also known as orthographic drawings, are used to communicate the sizes of the item drawn.`,
+
+`System diagrams:
+Used to show the concept of how a system will work. It should include the input, process and output blocks and the signal that passes through them. A system diagram may also include a feedback loop.`,
+
+`Schematic diagrams:
+Represent the elements of a system using standard symbols rather than pictures. They show which components are linked together and are commonly used to represent electrical circuits or pneumatic systems.`,
+
+`Mathmatical model:
+A way of simulating real-life situations using maths formulae. It can be used to demonstrate how a product or system works, how a system will change if it is modified or how a product cam give optimum performance. Uses include calculating the values of components to use in an electrical circuit, designing the shape of speedboat hulls, determining how strong a bridge must be and simulating the testing of aircraft in wind tunnels.`,
+
+`Orthographic drawings:
+Typically produced using computer-aided design (CAD), software. Virtual models, produced using 3D CAD software, can be used to test how well parts fit together.`,
+
+`Physical modelling:
+Making a prototype of the design idea. Card models can be used to give an impression of the physical size and shape of a product. For textile garments, a toile is often made from low-cost fabric (e.g. calico) to test the pattern and fit without using the more expensive fabric that it will be made from. Breadboarding is used for electronic circuits, as parts can be quickly swapped or moved.`
 ];
 
 const flashcardsQA = [
