@@ -97,8 +97,8 @@ header h1 {
   box-shadow: 0 0 15px #fcd34d;
 }
 
-.flashcard-container > button {
-  padding: 15px 30px;
+.nav-btns > button {
+  padding: 10px 20px;
   border-radius: 25px;
   border: none;
   cursor: pointer;
@@ -108,7 +108,7 @@ header h1 {
   transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.flashcard-container > button:hover {
+.nav-btns > button:hover {
   transform: scale(1.15);
   box-shadow: 0 0 20px #fcd34d;
 }

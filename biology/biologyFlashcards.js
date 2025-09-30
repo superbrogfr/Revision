@@ -53,6 +53,12 @@ function nextFlashcard() {
     showFlashcard();
 }
 
+function previousFlashcard() {
+    const arr = flashcardType === 'frontback' ? flashcardsFrontBack : flashcardsQA;
+    currentIndex = (currentIndex - 1 + arr.length) % arr.length;
+    showFlashcard();
+}
+
 function setFlashcardType(type) {
     flashcardType = type;
     currentIndex = 0;
