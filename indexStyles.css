@@ -54,7 +54,7 @@ main {
 .subject-section:nth-child(3)::before { background: linear-gradient(to right, #dc2626, #f87171); }
 .subject-section:nth-child(4)::before { background: linear-gradient(to right, #16a34a, #4ade80); }
 .subject-section:nth-child(5)::before { background: linear-gradient(to right, #2563eb, #60a5fa); }
-.subject-section:nth-child(5)::before { background: linear-gradient(to right, #a78bfa, #7c3aed); }
+.subject-section:nth-child(6)::before { background: linear-gradient(to right, #a78bfa, #7c3aed); }
 
 .subject-section:hover {
   transform: scale(1.05);
